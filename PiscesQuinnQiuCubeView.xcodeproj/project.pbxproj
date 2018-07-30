@@ -58,7 +58,6 @@
 		152617E5210B24F500A7AB78 /* PiscesQuinnQiuCubeViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PiscesQuinnQiuCubeViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		152617E9210B24F500A7AB78 /* PiscesQuinnQiuCubeViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PiscesQuinnQiuCubeViewUITests.m; sourceTree = "<group>"; };
 		152617EB210B24F500A7AB78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		15F6236A210B2798003B8B6F /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		15F6236C210B2815003B8B6F /* UIView+QQPiscesAdjustAnchorPoint.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+QQPiscesAdjustAnchorPoint.h"; sourceTree = "<group>"; };
 		15F6236D210B2815003B8B6F /* UIView+QQPiscesAdjustAnchorPoint.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+QQPiscesAdjustAnchorPoint.m"; sourceTree = "<group>"; };
 		15F6236F210B289B003B8B6F /* QQPiscesCubeCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QQPiscesCubeCollectionViewCell.h; sourceTree = "<group>"; };
@@ -125,7 +124,6 @@
 			children = (
 				15F6236B210B27AB003B8B6F /* Pisces */,
 				15F62378210B2EDD003B8B6F /* demo */,
-				15F6236A210B2798003B8B6F /* ViewController.h */,
 				152617C5210B24F400A7AB78 /* AppDelegate.h */,
 				152617C6210B24F400A7AB78 /* AppDelegate.m */,
 				152617C8210B24F400A7AB78 /* ViewController.h */,
